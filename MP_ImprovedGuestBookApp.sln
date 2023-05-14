@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{51D14B8B-F079-489A-BA9B-D8F7039A69E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuestBookLibrary", "GuestBookLibrary\GuestBookLibrary.csproj", "{63E2F92B-305E-4B05-BF10-26AA39E69739}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{51D14B8B-F079-489A-BA9B-D8F7039A69E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51D14B8B-F079-489A-BA9B-D8F7039A69E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51D14B8B-F079-489A-BA9B-D8F7039A69E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63E2F92B-305E-4B05-BF10-26AA39E69739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63E2F92B-305E-4B05-BF10-26AA39E69739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63E2F92B-305E-4B05-BF10-26AA39E69739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63E2F92B-305E-4B05-BF10-26AA39E69739}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
